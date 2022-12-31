@@ -4,7 +4,7 @@
 <head>
     <title data-i18n="eat-kano"></title>
     <meta itemprop="name" content="吃掉温家贺" />
-    <meta itemprop="description" content="新吃掉温家贺" />
+    <meta itemprop="description" content="吃掉温家贺" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
